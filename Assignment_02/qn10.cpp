@@ -1,7 +1,7 @@
 /*Write aC++ program that reads a number and check whether
  it is Armstrong’s number or not. (A number is called Armstrong’s 
  number if it is equal to sum of cubes of its digits. For example,
-  153 is Armstrong number because 153 = 1^3+2^3+5^3.
+  153 is Armstrong number because 153 = (1*1*1)+(5*5*5)+(3*3*3).
   */
 #include<iostream>
 using namespace std;
