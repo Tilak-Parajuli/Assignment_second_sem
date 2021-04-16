@@ -11,7 +11,7 @@ void perimeter(float l,float b){
 }
 int main(){
     float s,t;
-    cout<<"Enter length and breadth of perimeter"<<endl;
+    cout<<"Enter length and breadth of rectangle(babe)"<<endl;
     cin>>s>>t;
     area(s,t);
     perimeter(s,t);
