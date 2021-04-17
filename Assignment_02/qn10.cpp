@@ -15,7 +15,7 @@ void is_armstrong(){
         s=s+(r*r*r);       
         n=n/10;
         }
-        if(dup=s)
+        if(dup==s)
             cout<<dup<<" is a armstrong number ."<<endl;
         else
             cout<<dup<<" is not a armstrong number ."<<endl;
