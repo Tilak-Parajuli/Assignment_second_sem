@@ -1,4 +1,4 @@
-//Write a C++ program to find cubes and squares of first 10 natural numbers.
+//Write a C++ program to find sum of (cubes and squares) of first 10 natural numbers.
 #include<iostream>
 using namespace std;
 void cubes(){
